@@ -4,32 +4,20 @@
 
 ###
 
-
 ###
 
-<h1 align="center">hey there 👋</h1>
-
-###
-
+<p align="left">
+👋 Halo, saya Alfi Fauzan
+  
 <h3 align="left">👩‍💻  About Me</h3>
 
-###
-
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
-
-###
-
-<h3 align="center">🛠 Language and tools</h3>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-</div>
+  
+- 💻 Seorang Software Developer yang berfokus pada pengembangan aplikasi web.
+- 🔭 Saat ini sedang mengembangkan berbagai proyek web dan terus meningkatkan kemampuan.
+- 📚 Sedang mempelajari Laravel, React, Docker, dan Cloud Computing.
+- 🌱 Senang mempelajari teknologi baru serta menerapkan praktik terbaik dalam pengembangan perangkat lunak.
+- ⚡ Di waktu luang, saya mengerjakan proyek pribadi, berkontribusi pada open source, dan terus belajar hal-hal baru.
+</p>
 
 ###
 
